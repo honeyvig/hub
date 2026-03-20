@@ -20,7 +20,7 @@ MetaMask Embedded Wallets (formerly Web3Auth) is a pluggable wallet infrastructu
 
 | Package | Description |
 |---|---|
-| [`@web3auth/react-native-sdk`](https://github.com/Web3Auth/web3auth-react-native-sdk) | React Native — Expo and bare. Built-in EVM and Solana providers. |
+| [`React Native SDK`](https://github.com/Web3Auth/web3auth-react-native-sdk) | React Native — Expo and bare. Built-in EVM and Solana providers. |
 | [`Android SDK`](https://github.com/Web3Auth/web3auth-android-sdk) | Kotlin. Export private key; use web3j or similar. |
 | [`Swift SDK`](https://github.com/Web3Auth/web3auth-swift-sdk) | iOS. Export private key; use web3swift or similar. |
 | [`Flutter SDK`](https://github.com/Web3Auth/web3auth-flutter-sdk) | Dart. Export private key; use web3dart or similar. |
